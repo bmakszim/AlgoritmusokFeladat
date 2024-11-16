@@ -1,0 +1,1 @@
+# Algoritmusok és adatszerkezetek gyakorlat házi feladat
